@@ -408,6 +408,7 @@ button:focus {
   color: #fff;
   overflow: hidden;
   position: relative;
+  height: 100vh;
 }
 #hero-area.portfolio{
   background: url(../img/img3.jpg) fixed no-repeat;
@@ -426,7 +427,8 @@ button:focus {
 }
 
 #hero-area .contents {
-  padding: 200px 0;
+  /*padding: 200px 0;*/
+  padding: 45vh 0;
 }
 
 #hero-area .contents h1 {
