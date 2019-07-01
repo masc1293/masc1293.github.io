@@ -976,8 +976,8 @@ button:focus {
 }
 
 .overlay .enlace{
-  left: 60%;
-  right: 60%;
+  left: 50%;
+  right: 50%;
 }
 
 .nivo-lightbox-overlay{
